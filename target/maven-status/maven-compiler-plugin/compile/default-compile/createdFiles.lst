@@ -1,0 +1,7 @@
+com\personal\calculateTaxes\CalculateTaxesApplication.class
+com\personal\calculateTaxes\model\Tax$TaxBuilder.class
+com\personal\calculateTaxes\service\impl\CalculatorServiceImpl.class
+com\personal\calculateTaxes\model\Operation.class
+com\personal\calculateTaxes\service\CalculatorService.class
+com\personal\calculateTaxes\commands\CalculatorCommands.class
+com\personal\calculateTaxes\model\Tax.class

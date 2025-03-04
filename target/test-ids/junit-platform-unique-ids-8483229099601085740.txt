@@ -1,0 +1,7 @@
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.commands.CalculatorCommandsTest]/[method:should_throw_FileNotFoundException_when_invalid_file()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.commands.CalculatorCommandsTest]/[method:should_throw_JsonProcessingException_when_invalid_file()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.commands.CalculatorCommandsTest]/[method:should_throw_JsonProcessingException_when_invalid_line()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.commands.CalculatorCommandsTest]/[method:should_return_json_when_valid_file()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.commands.CalculatorCommandsTest]/[method:should_return_json_when_valid_line()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.service.impl.CalculatorServiceImplTest]/[method:should_throw_JsonProcessingException_when_invalid_json()]
+[engine:junit-jupiter]/[class:com.personal.calculateTaxes.service.impl.CalculatorServiceImplTest]/[method:should_return_taxes_string_when_valid_operation()]

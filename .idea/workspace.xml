@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7387e38f-aee4-44ce-8406-e8c8ec437021" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateTaxesExe.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculateTaxes.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/CalculateTaxesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/commands/CalculatorCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/model/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/model/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/personal/calculateTaxes/service/impl/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/personal/calculateTaxes/commands/CalculatorCommandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/personal/calculateTaxes/service/impl/CalculatorServiceImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculateTaxes-1.0.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculateTaxes-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/calculateTaxes-1.0.0.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/CalculateTaxesApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/commands/CalculatorCommands.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/model/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/model/Tax$TaxBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/model/Tax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/service/CalculatorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/personal/calculateTaxes/service/impl/CalculatorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2025-03-03T17-28-44_096.dumpstream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.personal.calculateTaxes.commands.CalculatorCommandsTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.personal.calculateTaxes.service.impl.CalculatorServiceImplTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.personal.calculateTaxes.commands.CalculatorCommandsTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.personal.calculateTaxes.service.impl.CalculatorServiceImplTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/personal/calculateTaxes/commands/CalculatorCommandsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/personal/calculateTaxes/service/impl/CalculatorServiceImplTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-ids/junit-platform-unique-ids-8483229099601085740.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="E:\Development\Projects\calculateTaxes\htmlReport" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2sBmNNcx8VBNdzcK9kKukviwBvD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalculateTaxesApplication.executor": "Debug",
+    "JUnit.All in java (1).executor": "Coverage",
+    "JUnit.All in java (2).executor": "Debug",
+    "JUnit.All in java.executor": "Coverage",
+    "JUnit.CalculateTaxesApplicationTest.main.executor": "Debug",
+    "JUnit.CalculateTaxesApplicationTests.executor": "Run",
+    "JUnit.CalculatorCommandsTest.executor": "Run",
+    "JUnit.CalculatorCommandsTest.should_return_json_when_valid_file.executor": "Run",
+    "JUnit.CalculatorCommandsTest.should_return_json_when_valid_line.executor": "Run",
+    "JUnit.CalculatorCommandsTest.should_throw_FileNotFoundException_when_invalid_file.executor": "Run",
+    "JUnit.CalculatorCommandsTest.should_throw_JsonProcessingException_when_invalid_file.executor": "Run",
+    "JUnit.CalculatorServiceImplTest.should_return_taxes_string_when_valid_operation.executor": "Run",
+    "JUnit.CalculatorServiceTest.should_return_taxes_string_when_valid_operation.executor": "Debug",
+    "JUnit.CalculatorServiceTest.should_throw_FileNotFoundException_when_file_is_invalid.executor": "Run",
+    "JUnit.CalculatorServiceTest.should_throw_FileNotFoundException_when_invalid_file.executor": "Run",
+    "JUnit.CalculatorServiceTest.should_throw_JsonProcessingException_when_invalid_json.executor": "Run",
+    "Maven.calculateTaxes [clean,install,-U].executor": "Run",
+    "Maven.java [-Pnative,compile].executor": "Run",
+    "Maven.java [-Pnative,native:compile].executor": "Run",
+    "Maven.java [clean,install,-U,-DSkipTests=true].executor": "Run",
+    "Maven.java [clean,install,-U,-DskipTests=true].executor": "Run",
+    "Maven.java [clean,install,-U].executor": "Run",
+    "Maven.java [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Development/Projects/calculateTaxes",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Development\Projects\calculateTaxes" />
+      <recent name="E:\Development\Projects\java\src\test\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.personal.calculateTaxes.service.impl" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install -U -DSkipTests=true" />
+      <command value="mvn clean install -U -DskipTests=true" />
+      <command value="mvn -Pnative compile" />
+      <command value="mvnw -Pnative native:compile" />
+      <command value="mvn clean" />
+      <command value="mvn -Pnative native:compile" />
+      <command value="mvn clean install -U" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CalculateTaxesApplication">
+    <configuration name="CalculateTaxesApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.personal.calculateTaxes.CalculateTaxesApplication" />
+      <module name="calculateTaxes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.personal.calculateTaxes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculateTaxes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="calculateTaxes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="calculateTaxes" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CalculateTaxesApplication" />
+      <item itemvalue="JUnit.All in java" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CalculateTaxesApplication" />
+        <item itemvalue="JUnit.All in java" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7387e38f-aee4-44ce-8406-e8c8ec437021" name="Changes" comment="" />
+      <created>1737937302017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737937302017</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$All_in_java.ic" NAME="All in java Coverage Results" MODIFIED="1740835702677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java$All_in_java__1_.ic" NAME="All in java (1) Coverage Results" MODIFIED="1738286743680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/java$All_in_java__2_.ic" NAME="All in java (2) Coverage Results" MODIFIED="1738286944544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/calculateTaxes$All_in_java.ic" NAME="All in java Coverage Results" MODIFIED="1740841008109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

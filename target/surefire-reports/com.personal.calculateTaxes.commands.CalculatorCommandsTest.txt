@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.personal.calculateTaxes.commands.CalculatorCommandsTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.865 s -- in com.personal.calculateTaxes.commands.CalculatorCommandsTest
